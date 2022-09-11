@@ -1,0 +1,48 @@
+/* https://colorhunt.co/palette/92b4ecffffffffe69affd24c  */
+/* #92B4EC */
+/* #FFFFFF */
+/* #FFE69A */
+/* #FFD24C */
+
+  body {
+    background-color: #FFFFFF;
+  }
+  h1 {
+    text-align: center;
+    color: #FFD24C ;
+  }
+  h2 {
+    text-align: center;
+    color: #FFD24C ;
+  }
+
+  h3 {
+    text-align: center;
+    color: #FFD24C ;
+  }
+
+  p {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  li {
+    margin-left: 140px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  hr {
+    border-color: #92B4EC;;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    height: 5px;
+    width: 20%;
+  }
